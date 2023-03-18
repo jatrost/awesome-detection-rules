@@ -57,3 +57,4 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/mgreen27/DetectRaptor
 * https://docs.velociraptor.app/exchange/
 * https://github.com/wazuh/wazuh/tree/master/ruleset
+* https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt - exploit kit regexes 
