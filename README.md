@@ -58,3 +58,4 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://docs.velociraptor.app/exchange/
 * https://github.com/wazuh/wazuh/tree/master/ruleset
 * https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt - exploit kit regexes 
+* https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
