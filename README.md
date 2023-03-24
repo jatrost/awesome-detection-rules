@@ -39,7 +39,13 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://research.splunk.com/detections/ 
 * https://research.splunk.com/stories/ 
 * https://github.com/splunk/security_content 
-  
+
+# Sublime / MQL
+
+* https://github.com/sublime-security/sublime-rules/
+* https://github.com/delivr-to/detections/tree/main/sublime-rules
+* https://github.com/vector-sec/public-sublime-rules
+
 
 # Other
 
