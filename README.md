@@ -46,6 +46,10 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/delivr-to/detections/tree/main/sublime-rules
 * https://github.com/vector-sec/public-sublime-rules
 
+# KQL
+
+* https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
+* https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection
 
 # Other
 
@@ -58,7 +62,6 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/Algbra-Labs-OSS/Chronicle
 * https://github.com/quadrantsec/sagan-rules
 * https://github.com/Yamato-Security/hayabusa
-* https://github.com/sublime-security/sublime-rules
 * https://github.com/aquasecurity/tracee/tree/main/signatures
 * https://github.com/mgreen27/DetectRaptor
 * https://docs.velociraptor.app/exchange/
