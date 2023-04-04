@@ -50,6 +50,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 
 * https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
 * https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection
+* https://github.com/Azure/Azure-Sentinel
 
 # Other
 
@@ -68,3 +69,4 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/wazuh/wazuh/tree/master/ruleset
 * https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt - exploit kit regexes 
 * https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
+* https://github.com/Yamato-Security/hayabusa-rules
