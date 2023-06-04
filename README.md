@@ -8,6 +8,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/elastic/protections-artifacts/tree/main/yara/rules
 * https://github.com/Neo23x0/signature-base 
 * https://github.com/pmelson/yara_rules
+* https://github.com/stairwell-inc/threat-research
 
 # Sigma
 
@@ -18,7 +19,8 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/The-DFIR-Report/Sigma-Rules
 * https://github.com/tsale/Sigma_rules
 * https://github.com/anil-yelken/sigma-rules
-* https://github.com/mbabinski/Sigma-Rules/tree/main/2022_RedCanary_ThreatDetectionReport
+* https://github.com/mbabinski/Sigma-Rules
+* https://github.com/magicsword-io/LOLDrivers/tree/main/detections/sigma
 
 # Falco
 
@@ -70,3 +72,5 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt - exploit kit regexes 
 * https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
 * https://github.com/Yamato-Security/hayabusa-rules
+* https://github.com/ahmedkhlief/APT-Hunter
+
