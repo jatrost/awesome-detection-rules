@@ -63,11 +63,13 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua (ransomware)
 * https://github.com/projectdiscovery/nuclei-templates/
 * https://github.com/Algbra-Labs-OSS/Chronicle
+* https://github.com/chronicle/detection-rules/
 * https://github.com/quadrantsec/sagan-rules
 * https://github.com/Yamato-Security/hayabusa
 * https://github.com/aquasecurity/tracee/tree/main/signatures
 * https://github.com/mgreen27/DetectRaptor
 * https://docs.velociraptor.app/exchange/
+* https://github.com/0x534a/dynmx-signatures ([dynmx](https://github.com/0x534a/dynmx))
 * https://github.com/wazuh/wazuh/tree/master/ruleset
 * https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt - exploit kit regexes 
 * https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
