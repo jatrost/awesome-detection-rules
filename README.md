@@ -75,4 +75,5 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
 * https://github.com/Yamato-Security/hayabusa-rules
 * https://github.com/ahmedkhlief/APT-Hunter
+* https://github.com/GoogleCloudPlatform/security-analytics
 
