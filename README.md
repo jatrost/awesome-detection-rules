@@ -26,6 +26,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 
 * https://github.com/falcosecurity/rules
 * https://gitlab.com/gitlab-org/security-products/package-hunter/-/blob/main/falco/falco_rules.local.yaml
+* https://github.com/CloudDefenseAI/falco_extended_rules
 
 # Zeek
 
@@ -35,6 +36,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 
 * https://rules.emergingthreatspro.com/open/
 * https://www.snort.org/downloads/#rule-downloads
+* https://github.com/nsacyber/ELITEWOLF
 
 # Splunk
 
