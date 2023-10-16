@@ -55,6 +55,8 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
 * https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection
 * https://github.com/Azure/Azure-Sentinel
+* https://www.kqlsearch.com/
+* https://github.com/reprise99/Sentinel-Queries
 
 # Other
 
