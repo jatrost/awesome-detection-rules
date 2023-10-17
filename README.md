@@ -21,6 +21,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/anil-yelken/sigma-rules
 * https://github.com/mbabinski/Sigma-Rules
 * https://github.com/magicsword-io/LOLDrivers/tree/main/detections/sigma
+* https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules
 
 # Falco
 
@@ -80,4 +81,5 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/Yamato-Security/hayabusa-rules
 * https://github.com/ahmedkhlief/APT-Hunter
 * https://github.com/GoogleCloudPlatform/security-analytics
-
+* https://github.com/mthcht/ThreatHunting-Keywords
+* https://github.com/mthcht/awesome-lists
