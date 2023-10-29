@@ -22,6 +22,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/mbabinski/Sigma-Rules
 * https://github.com/magicsword-io/LOLDrivers/tree/main/detections/sigma
 * https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules
+* https://github.com/center-for-threat-informed-defense/cloud-analytics/tree/main/analytics
 
 # Falco
 
