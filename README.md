@@ -9,6 +9,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/Neo23x0/signature-base 
 * https://github.com/pmelson/yara_rules
 * https://github.com/stairwell-inc/threat-research
+* https://github.com/mthcht/ThreatHunting-Keywords-yara-rules
 
 # Sigma
 
