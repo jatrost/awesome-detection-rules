@@ -62,6 +62,11 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://www.kqlsearch.com/
 * https://github.com/reprise99/Sentinel-Queries
 
+# Nuclei
+
+* https://github.com/projectdiscovery/nuclei-templates/
+* https://github.com/UnaPibaGeek/honeypots-detection
+
 # Other
 
 * https://github.com/rabbitstack/fibratus/tree/master/rules
@@ -69,7 +74,6 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/elastic/detection-rules
 * https://github.com/elastic/protections-artifacts/tree/main/behavior/rules
 * https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua (ransomware)
-* https://github.com/projectdiscovery/nuclei-templates/
 * https://github.com/Algbra-Labs-OSS/Chronicle
 * https://github.com/chronicle/detection-rules/
 * https://github.com/quadrantsec/sagan-rules
