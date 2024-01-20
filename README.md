@@ -113,6 +113,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/phish-report/IOK/tree/main/indicators - phishing kit signatures
 * https://github.com/quadrantsec/sagan-rules
 * https://github.com/rabbitstack/fibratus/tree/master/rules
+* https://github.com/referefref/honeydet/blob/main/signatures.yaml - honeypot detection signatures
 * https://github.com/wazuh/wazuh/tree/master/ruleset
 * https://github.com/Yamato-Security/hayabusa
 * https://github.com/Yamato-Security/hayabusa-rules
