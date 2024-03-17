@@ -35,6 +35,7 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/volexity/threat-intel
 * https://github.com/Yara-Rules/rules
 * https://github.com/YARAHQ/yara-forge/releases
+* https://github.com/roadwy/DefenderYara/
 
 # Sigma
 
