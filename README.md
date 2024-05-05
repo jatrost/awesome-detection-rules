@@ -73,7 +73,8 @@ This is a collection of threat detection rules / rules engines that I have come 
 * https://github.com/mthcht/ThreatHunting-Keywords
 * https://github.com/splunk/security_content
 * https://research.splunk.com/detections/ 
-* https://research.splunk.com/stories/ 
+* https://research.splunk.com/stories/
+* https://github.com/anvilogic-forge/armory
 
 # Sublime / MQL
 
